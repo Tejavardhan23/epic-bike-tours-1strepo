@@ -53,10 +53,6 @@
   color: #ff4040;
 }
 
-.navbar1_link.w--current {
-  color: transparent;
-}
-
 .navbar1_link.mr {
   padding-right: 3.9em;
 }
