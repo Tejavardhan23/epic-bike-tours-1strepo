@@ -1,0 +1,1788 @@
+.link-block-3 {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.margin-bottom-24px {
+  max-width: 56ch;
+  margin-bottom: 41px;
+  font-family: 'Avenir lt Normal', sans-serif;
+  color: grey;
+  font-size: 18px;
+  letter-spacing: 0.01em;
+}
+
+.heading-4 {
+  max-width: 44%;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Raleway, sans-serif;
+  font-size: 54px;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.grid {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+}
+
+.bike-image {
+  height: 300px;
+}
+
+.bold-text-4 {
+  font-size: 32px;
+  line-height: 1.2;
+}
+
+.image-9 {
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.label {
+  font-family: 'Avenir lt Normal', sans-serif;
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.div-block-20 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar1_link {
+  margin-right: 0px;
+  padding: 0.5rem 0.5em;
+  flex: 0 auto;
+  font-family: Inter, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.navbar1_link:hover {
+  color: #ff4040;
+}
+
+
+.navbar1_link.mr {
+  padding-right: 3.9em;
+}
+
+.package-includes {
+  padding-top: 33px;
+  padding-bottom: 43px;
+  background-color: #000;
+  color: #fff;
+}
+
+.bold-text-2 {
+  max-width: none;
+}
+
+.heading-6 {
+  background-color: transparent;
+  color: #ff4040;
+}
+
+.place-heading {
+  margin-bottom: 28px;
+  font-family: Raleway, sans-serif;
+  color: #000;
+  font-size: 28px;
+  line-height: 33.6px;
+}
+
+.navbar1_component {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  width: 100%;
+  height: auto;
+  min-height: 4.5rem;
+  padding: 1rem 5%;
+  align-items: center;
+  border: 1px none #000;
+  background-color: #fff;
+}
+
+.slide-nav {
+  display: none;
+}
+
+.bike-rental_content {
+  display: -ms-grid;
+  display: grid;
+  width: 95%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.card-text {
+  margin-top: 12px;
+  margin-bottom: 0em;
+  font-family: AvenirLTProBook, sans-serif;
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+.card-text.card {
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+.section {
+  margin-top: 40px;
+  margin-bottom: 0px;
+  padding-bottom: 100px;
+}
+
+.best-time-wrapper {
+  width: 90%;
+  max-width: 1300px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+.card-content {
+  max-width: 90%;
+  margin: 2.8em auto;
+  padding-bottom: 0em;
+  line-height: 1.2;
+}
+
+.strip {
+  font-family: AvenirLTProMedium, sans-serif;
+  font-size: 40px;
+  line-height: 1.2;
+  font-weight: 500;
+  text-align: center;
+}
+
+.slide-3 {
+  background-image: url('../images/slider3.webp');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.places-wrapper {
+  width: 90%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.great-himalaya {
+  display: block;
+}
+
+.button-primary-3 {
+  padding: 0.5em 1.7em;
+  border: 1px solid #000;
+  border-radius: 1000px;
+  background-color: transparent;
+  transition: all 200ms ease;
+  color: #000;
+  font-size: 20px;
+  line-height: 1.67;
+  font-weight: 300;
+  letter-spacing: 0px;
+  text-transform: none;
+}
+
+.button-primary-3:hover {
+  background-color: #32343a;
+  color: #fff;
+}
+
+.button-primary-3:active {
+  background-color: #43464d;
+}
+
+.image {
+  width: 100%;
+  max-width: none;
+}
+
+.image-2 {
+  padding-left: 0em;
+}
+
+.slide-4 {
+  background-image: url('../images/slider4.webp');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.itinerary-description {
+  margin-bottom: 60px;
+  margin-left: 128px;
+  font-family: 'Avenir lt Normal', sans-serif;
+  font-size: 16px;
+  line-height: 28.8px;
+}
+
+.trans-himalaya {
+  display: block;
+}
+
+.button {
+  padding: 0.75rem 1.5rem;
+  border: 1px solid transparent;
+  background-color: transparent;
+  color: transparent;
+  text-align: center;
+}
+
+.button.is-small {
+  padding: 0.5rem 1.25rem;
+  border-style: none;
+  border-radius: 10000px;
+  background-color: #000;
+  font-family: Inter, sans-serif;
+  color: #fff;
+  font-size: 15px;
+  line-height: 1.9;
+}
+
+.button.is-small:hover {
+  background-color: #ff4040;
+}
+
+.button.is-secondary {
+  background-color: transparent;
+  color: transparent;
+}
+
+.button.is-secondary.is-small {
+  display: block;
+  border-style: none;
+  border-radius: 10000px;
+  background-color: rgba(255, 64, 64, 0.1);
+  transition: color 400ms ease-out, background-color 400ms ease-out;
+  font-family: Inter, sans-serif;
+  color: #ff4040;
+  font-size: 15px;
+  line-height: 1.9;
+  font-weight: 500;
+}
+
+.button.is-secondary.is-small:hover {
+  background-color: #ff4040;
+  color: #fff;
+}
+
+.footer-container {
+  display: flex;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: flex-start;
+  align-items: center;
+  grid-column-gap: 3rem;
+  grid-row-gap: 3rem;
+}
+
+.heading-9 {
+  max-width: 881px;
+  margin: 0px auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 0px;
+  border-top: 1px none #000;
+  border-bottom: 1px none #000;
+  font-family: Raleway, sans-serif;
+  font-size: 38px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+.bold-text-6 {
+  font-size: 42px;
+  line-height: 1.2;
+}
+
+.button-primary-4 {
+  padding: 0.5em 2.5em;
+  border-style: none;
+  border-width: 1px;
+  border-color: #ff4040;
+  border-radius: 1000px;
+  background-color: #ff4040;
+  transition: all 200ms ease;
+  color: #fff;
+  font-size: 20px;
+  line-height: 1.67;
+  font-weight: 300;
+  letter-spacing: 0px;
+  text-transform: none;
+}
+
+.button-primary-4:hover {
+  background-color: #32343a;
+  color: #fff;
+}
+
+.button-primary-4:active {
+  background-color: #43464d;
+}
+
+.place-card {
+  max-width: none;
+  flex: 0 auto;
+}
+
+.place-card.last {
+  max-width: none;
+}
+
+.image-8 {
+  width: 100%;
+}
+
+.about-us_content {
+  display: -ms-grid;
+  display: grid;
+  width: 95%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1.45fr 1fr;
+  grid-template-columns: 1.45fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.t-and-c-text {
+  margin-top: 15px;
+  margin-bottom: 7px;
+  font-family: 'Avenir lt Normal', sans-serif;
+  font-size: 16px;
+}
+
+.t-and-c-text.less-padding {
+  margin-top: 7px;
+}
+
+.t-and-c-text.charges {
+  margin-top: 20px;
+  margin-bottom: 43px;
+}
+
+.div-block-5 {
+  display: block;
+}
+
+.slide-5 {
+  background-image: url('../images/slider5.webp');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.ite-heading-holder {
+  border-style: none solid none none;
+  border-width: 1px;
+  border-color: #d32f2f #000 #d32f2f #d32f2f;
+}
+
+.table-text {
+  padding-top: 14px;
+  padding-bottom: 22px;
+  padding-left: 20px;
+  border-style: none none solid solid;
+  border-width: 1px;
+  border-color: #000;
+  font-family: 'Avenir lt Normal', sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+.table-text.tt-heading {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.hero-split {
+  display: flex;
+  max-width: none;
+  padding-top: 0px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.get-social {
+  display: -ms-grid;
+  display: grid;
+  height: 301px;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.div-block-18 {
+  height: 301px;
+}
+
+.itinerary-holder {
+  display: -ms-grid;
+  display: grid;
+  max-width: 881px;
+  margin-right: auto;
+  margin-left: auto;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 0.47fr 1fr;
+  grid-template-columns: 0.47fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.span-red {
+  color: #ff4040;
+}
+
+.span-red .bold-text {
+  text-decoration: underline;
+}
+
+
+.card-img {
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.div-block-10 {
+  max-width: none;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.div-block-14 {
+  display: -ms-grid;
+  display: grid;
+  max-width: 881px;
+  margin-right: auto;
+  margin-left: auto;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.terms-and-conditions {
+  max-width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.heading {
+  margin-bottom: 13px;
+  padding-top: 76px;
+  font-size: 0px;
+  line-height: 0px;
+}
+
+.text-block-2 {
+  max-width: 49%;
+  font-family: 'Avenir lt Normal', sans-serif;
+  font-size: 16px;
+  letter-spacing: 0px;
+}
+
+.bold-text {
+  font-family: Raleway, sans-serif;
+  font-size: 54px;
+  line-height: 64px;
+  text-decoration: none;
+}
+
+.paragraph-tour {
+  margin-bottom: 24px;
+  font-family: 'Avenir lt Normal', sans-serif;
+  font-size: 18px;
+  line-height: 1.75;
+}
+
+.paragraph-tour.bold {
+  margin-bottom: 10px;
+}
+
+.text-block-7 {
+  max-width: 84%;
+  margin-bottom: 0px;
+  padding-bottom: 28px;
+  font-family: 'Avenir lt Normal', sans-serif;
+  font-size: 16px;
+  line-height: 21px;
+}
+
+.heading-3 {
+  margin-top: 0px;
+  font-family: Raleway, sans-serif;
+}
+
+.place-img-wrapper {
+  width: 100%;
+  height: 350px;
+  min-width: auto;
+  margin-top: auto;
+}
+
+.rental-hero {
+  padding-top: 77px;
+  padding-bottom: 77px;
+}
+
+.section-5 {
+  display: none;
+}
+
+.div-block-16 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  grid-column-gap: 1rem;
+  grid-row-gap: 1rem;
+}
+
+.link-block-2 {
+  text-decoration: none;
+}
+
+.div-block-19 {
+  display: flex;
+  grid-column-gap: 2.5rem;
+  grid-row-gap: 2.5rem;
+}
+
+.section-3 {
+  padding-top: 177px;
+}
+
+.div-block-9 {
+  max-width: 881px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 0px;
+}
+
+.mask {
+  max-width: none;
+  padding-left: 0px;
+}
+
+.terms-heading {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text-block-3 {
+  padding: 0.5em;
+  font-family: Inter, sans-serif;
+  color: #000;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.text-block-3:hover {
+  color: #ff4040;
+}
+
+.navbar1_container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.div-block {
+  display: flex;
+  margin-top: 35px;
+  margin-right: auto;
+  margin-left: 0px;
+  justify-content: center;
+  flex-wrap: nowrap;
+  grid-column-gap: 13px;
+  grid-row-gap: 13px;
+}
+
+.ite-heading-holder-copy {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-style: none solid none none;
+  border-width: 1px;
+  border-color: #d32f2f #000 #d32f2f #d32f2f;
+}
+
+.div-block-21 {
+  display: -ms-grid;
+  display: grid;
+  max-width: 700px;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+  border-top: 1px solid #000;
+  border-right: 1px solid #000;
+}
+
+.link-block {
+  max-width: 360px;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+}
+
+.text-block-5 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgba(255, 64, 64, 0.1);
+  font-family: Inter, sans-serif;
+  color: #ff4040;
+  font-size: 15px;
+  line-height: 1.9;
+  font-weight: 500;
+  text-align: center;
+}
+
+.text-block-6 {
+  max-width: 43%;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Avenir lt Normal', sans-serif;
+  color: grey;
+  font-size: 15px;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.text-block {
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
+  background-color: #000;
+  color: #fff;
+  font-size: 0px;
+  line-height: 0;
+  text-align: center;
+}
+
+.text-block.strip {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  font-size: 40px;
+  line-height: 0;
+}
+
+.navbar1_menu {
+  position: static;
+  display: flex;
+  align-items: center;
+}
+
+.section-7 {
+  background-color: #000;
+  color: #fff;
+}
+
+.ite-desc-holder-copy {
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.heading-2 {
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+}
+
+.tours-content {
+  width: 90%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.section-4 {
+  display: block;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.bold-text-5 {
+  font-family: AvenirLTProHeavy, sans-serif;
+}
+
+.heading-8 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Raleway, sans-serif;
+  font-size: 28px;
+  line-height: 1.2;
+  font-weight: 500;
+}
+
+.div-block-15 {
+  background-color: #ff4040;
+}
+
+.slide-6 {
+  background-image: url('../images/slider6.webp');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-2 {
+  background-image: url('../images/slider2.webp');
+  background-position: 0px 0px;
+  background-size: auto;
+}
+
+.slide-2.slider-image {
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slider {
+  height: 100%;
+  max-width: 70%;
+  margin-left: auto;
+}
+
+.itinerary-heading {
+  margin-right: 48px;
+  font-family: 'Avenir lt Normal', sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+.navbar1_logo-link {
+  padding-left: 0px;
+}
+
+.slide-7 {
+  background-image: url('../images/slider1.webp');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero-heading-left {
+  position: relative;
+  padding: 0px;
+  border-bottom: 1px solid #e4ebf3;
+  background-color: transparent;
+}
+
+.terms-section {
+  display: block;
+}
+
+.div-block-17 {
+  padding-top: 66px;
+  padding-bottom: 58px;
+  padding-left: 142px;
+}
+
+.input {
+  margin-bottom: 25px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-style: none none solid;
+  border-width: 2px;
+  border-color: #e72f2f #e72f2f #000;
+}
+
+.div-block-11 {
+  border: 1px solid #000;
+}
+
+.div-block-2 {
+  display: flex;
+  margin-top: 50px;
+  flex-wrap: wrap;
+  grid-column-gap: 43px;
+  grid-row-gap: 43px;
+}
+
+.ite-desc-holder {
+  position: relative;
+}
+
+.bike-rental-text {
+  font-size: 18px;
+  line-height: 1.75;
+}
+
+.bike-rental-text.mb-32 {
+  margin-bottom: 32px;
+}
+
+.place-para {
+  margin-bottom: 35px;
+}
+
+.container-2 {
+  width: 100%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.socials-block {
+  display: block;
+}
+
+.card-heading {
+  margin-top: 0em;
+  margin-bottom: 0.34em;
+  font-family: Raleway, sans-serif;
+  font-size: 23px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+.navbar1_menu-button {
+  padding: 0rem;
+}
+
+.image-3 {
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.circle {
+  position: absolute;
+  left: -6px;
+  top: 6px;
+  right: auto;
+  bottom: auto;
+  width: 12px;
+  height: 12px;
+  border-radius: 1000px;
+  background-color: #000;
+}
+
+.navbar1_menu-buttons {
+  display: flex;
+  margin-left: 1rem;
+  align-items: center;
+  flex: 0 auto;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 1rem;
+  grid-row-gap: 1rem;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.div-block-6 {
+  display: block;
+  width: 90%;
+  max-width: 1300px;
+  margin: 71px auto;
+  justify-content: space-between;
+}
+
+.bold-text-3 {
+  font-family: Raleway, sans-serif;
+  font-size: 42px;
+  line-height: 1.2;
+}
+
+.submit-button {
+  padding: 0.8em 3em;
+  border: 2px solid #000;
+  border-radius: 10000px;
+  background-color: #000;
+  transition: all 200ms ease-in-out;
+  font-size: 16px;
+  line-height: 22.4px;
+}
+
+.submit-button:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.text-block-10 {
+  margin-bottom: 42px;
+  font-family: Raleway, sans-serif;
+  color: #fff;
+  font-size: 38px;
+  line-height: 1.2;
+}
+
+.text-block-4 {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  display: none;
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  background-color: hsla(0, 0%, 100%, 0.7);
+  transition: all 200ms ease-in-out;
+  font-family: AvenirLTProLight, sans-serif;
+  font-size: 18px;
+  line-height: 1.4;
+  font-weight: 400;
+}
+
+.heading-5 {
+  margin-bottom: 49px;
+  color: #ff4040;
+  font-size: 22px;
+  line-height: 26.4px;
+}
+
+.bike-card {
+  max-width: 250px;
+  font-family: 'Avenir lt Normal', sans-serif;
+  font-size: 22px;
+}
+
+.heading-10 {
+  margin-bottom: 40px;
+  font-family: Raleway, sans-serif;
+  font-weight: 400;
+}
+
+.hero-wrapper {
+  display: -ms-grid;
+  display: grid;
+  padding-top: 0px;
+  justify-content: flex-start;
+  align-items: start;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 0rem;
+  grid-row-gap: 0rem;
+  -ms-grid-columns: 0.78fr 1fr;
+  grid-template-columns: 0.78fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.places-text {
+  max-width: 83%;
+  font-family: 'Avenir lt Normal', sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: 0px;
+}
+
+.section-6 {
+  margin-top: 0px;
+  margin-bottom: 77px;
+}
+
+.place-cards {
+  display: -ms-grid;
+  display: grid;
+  width: 100%;
+  justify-content: start;
+  justify-items: center;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: stretch;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 32px;
+  grid-row-gap: 32px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+}
+
+.term-block {
+  margin-top: 58px;
+  border-right: 1px none #fff;
+}
+
+.term-block.left {
+  padding-right: 40px;
+  border-right-style: solid;
+}
+
+.term-block.right {
+  padding-left: 40px;
+}
+
+.heading-11 {
+  margin-top: 45px;
+  margin-bottom: 40px;
+  font-family: 'Avenir lt Normal', sans-serif;
+  font-size: 30px;
+  line-height: 1.2;
+}
+
+.form-section {
+  display: block;
+}
+
+.div-block-22 {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0px;
+  top: 0px;
+  z-index: 30;
+  background-color: #fff;
+}
+
+@media screen and (min-width: 1440px) {
+  .section-2 {
+    padding-top: 90px;
+  }
+
+  .navbar1_component {
+    border: 1px none #000;
+  }
+
+  .section {
+    margin-top: 53px;
+    padding-bottom: 42px;
+  }
+
+  .bold-text {
+    letter-spacing: normal;
+    text-decoration: none;
+    text-indent: 0px;
+  }
+
+  .heading-3 {
+    margin-top: 0px;
+  }
+
+  .section-3 {
+    padding-top: 177px;
+  }
+
+  .div-block {
+    margin-right: auto;
+    margin-left: 0px;
+  }
+
+  .tours-content {
+    max-width: 1300px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .text-block.strip {
+    position: absolute;
+  }
+
+  .hero-heading-left {
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .margin-bottom-24px {
+    font-size: 18px;
+  }
+
+  .heading-4 {
+    max-width: 70%;
+  }
+
+  .image-9 {
+    height: 100%;
+  }
+
+  .div-block-20 {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .navbar1_link {
+    width: auto;
+    padding: 0.75rem 0rem;
+    flex: 0 auto;
+    font-size: 1.125rem;
+    text-align: center;
+  }
+
+  .navbar1_link.mr {
+    padding-right: 0em;
+  }
+
+  .bike-rental_content {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .best-time-wrapper {
+    width: 90%;
+  }
+
+  .fre-icon-1 {
+    width: 1.5em;
+    cursor: pointer;
+  }
+
+  .itinerary-description {
+    margin-left: 20px;
+  }
+
+  .button.is-secondary.is-small {
+    display: none;
+  }
+
+  .footer-container {
+    width: 90%;
+    justify-content: space-between;
+  }
+
+  .heading-9 {
+    width: 81%;
+  }
+
+  .button-primary-4 {
+    width: auto;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .place-card {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .about-us_content {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .ite-heading-holder {
+    border-style: none;
+    border-color: #000;
+  }
+
+  .hero-split {
+    max-width: 100%;
+    margin-bottom: 40px;
+    align-items: center;
+  }
+
+  .get-social {
+    height: auto;
+    grid-row-gap: 0px;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .itinerary-holder {
+    width: 80%;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+    border-left: 1px solid #000;
+  }
+
+  .div-block-14 {
+    width: 90%;
+  }
+
+  .heading {
+    text-align: center;
+  }
+
+  .text-block-2 {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+
+  .menu-icon1 {
+    display: flex;
+    width: 48px;
+    height: 48px;
+    margin-right: -0.5rem;
+    padding-right: 0rem;
+    padding-bottom: 0rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .heading-7 {
+    text-align: center;
+  }
+
+  .rental-hero {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .section-5 {
+    display: block;
+  }
+
+  .section-3 {
+    padding-top: 60px;
+  }
+
+  .div-block-9 {
+    width: 81%;
+  }
+
+  .mask {
+    overflow: hidden;
+    width: 100%;
+    height: 600px;
+    -o-object-fit: fill;
+       object-fit: fill;
+  }
+
+  .div-block {
+    margin-left: auto;
+  }
+
+  .ite-heading-holder-copy {
+    border-style: none;
+    border-color: #000;
+  }
+
+  .text-block-6 {
+    max-width: 55%;
+  }
+
+  .navbar1_menu {
+    position: absolute;
+    overflow: auto;
+    padding: 1rem 5% 2rem;
+    border-bottom: 1px solid #000;
+    background-color: transparent;
+    background-clip: border-box;
+    -webkit-text-fill-color: inherit;
+  }
+
+  .navbar1_menu.is-page-height-tablet {
+    display: flex;
+    height: 100dvh;
+    padding-bottom: 6.5rem;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: #fff;
+    transition: height 500ms ease;
+    color: #000;
+  }
+
+  .ite-desc-holder-copy {
+    border-left: 1px none #000;
+  }
+
+  .heading-2 {
+    text-align: center;
+  }
+
+  .section-4 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .div-block-4 {
+    display: none;
+  }
+
+  .text-content {
+    display: block;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .slide-2.slider-image {
+    background-size: cover;
+  }
+
+  .slider {
+    height: auto;
+    max-width: none;
+    margin-right: auto;
+    background-color: transparent;
+  }
+
+  .itinerary-heading {
+    margin-right: 0px;
+    margin-left: 20px;
+    font-family: AvenirLTProBook, sans-serif;
+    font-weight: 800;
+  }
+
+  .div-block-2 {
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .ite-desc-holder {
+    border-left: 1px none #000;
+  }
+
+  .container-2 {
+    max-width: 728px;
+    margin-right: auto;
+  }
+
+  .navbar1_menu-button.w--open {
+    background-color: transparent;
+  }
+
+  .circle {
+    top: -31px;
+  }
+
+  .navbar1_menu-buttons {
+    margin-top: 1.5rem;
+    margin-left: 0rem;
+    flex-direction: column;
+    align-items: center;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .bold-text-3 {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .heading-5 {
+    text-align: center;
+  }
+
+  .hero-wrapper {
+    margin-bottom: -40px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .places-text {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+
+  .place-cards {
+    margin-right: auto;
+    margin-left: auto;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .margin-bottom-24px {
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+
+  .navbar1_component {
+    height: auto;
+    min-height: 4rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .section {
+    padding-bottom: 40px;
+  }
+
+  .fre-icon-1 {
+    width: 1.2em;
+  }
+
+  .itinerary-description {
+    margin-bottom: 30px;
+  }
+
+  .heading-9 {
+    font-size: 32px;
+  }
+
+  .div-block-18 {
+    height: 250px;
+  }
+
+  .div-block-14 {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .text-block-2 {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+
+  .bold-text {
+    font-size: 48px;
+    line-height: 1.2;
+  }
+
+  .place-img-wrapper {
+    height: 300px;
+  }
+
+  .mask {
+    height: 450px;
+  }
+
+  .navbar1_menu.is-page-height-tablet {
+    padding-bottom: 6rem;
+  }
+
+  .heading-2 {
+    text-align: center;
+  }
+
+  .heading-8 {
+    font-size: 22px;
+  }
+
+  .navbar1_logo-link {
+    padding-left: 0px;
+  }
+
+  .hero-heading-left {
+    padding: 40px 15px;
+  }
+
+  .div-block-17 {
+    padding-left: 60px;
+  }
+
+  .bold-text-3 {
+    font-size: 38px;
+  }
+
+  .places-text {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+
+  .place-cards {
+    display: flex;
+    flex-direction: column;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 19px;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+  }
+
+  .term-block {
+    margin-top: 40px;
+  }
+
+  .term-block.left {
+    padding-right: 0px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #fff;
+    border-right-style: none;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .link-block-3 {
+    padding-right: 0.125em;
+    padding-left: 0.125em;
+  }
+
+  .margin-bottom-24px {
+    font-size: 18px;
+  }
+
+  .heading-4 {
+    max-width: 95%;
+    font-size: 30px;
+    line-height: 1;
+  }
+
+  .bold-text-2 {
+    color: #000;
+    font-size: 30px;
+    line-height: 1.2;
+  }
+
+  .strip {
+    font-size: 20px;
+  }
+
+  .slide-3 {
+    background-size: cover;
+  }
+
+  .button-primary-3 {
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 18px;
+  }
+
+  .slide-4 {
+    background-size: cover;
+  }
+
+  .itinerary-description {
+    line-height: 1.2;
+  }
+
+  .heading-9 {
+    width: 90%;
+  }
+
+  .button-primary-4 {
+    margin-left: auto;
+    font-size: 18px;
+  }
+
+  .slide-5 {
+    background-size: cover;
+  }
+
+  .itinerary-holder {
+    width: 90%;
+  }
+
+  .heading {
+    text-align: left;
+  }
+
+  .text-block-2 {
+    max-width: 90%;
+  }
+
+  .bold-text {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .section-3 {
+    padding-top: 40px;
+  }
+
+  .div-block-9 {
+    width: 90%;
+  }
+
+  .mask {
+    overflow: hidden;
+    height: 350px;
+  }
+
+  .div-block {
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: space-around;
+    grid-row-gap: 13px;
+  }
+
+  .text-block-6 {
+    max-width: 83%;
+  }
+
+  .text-block.strip {
+    font-size: 1.2em;
+  }
+
+  .section-4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .slide-6 {
+    background-size: cover;
+  }
+
+  .itinerary-heading {
+    font-family: AvenirLTProBook, sans-serif;
+    font-weight: 800;
+  }
+
+  .hero-heading-left {
+    padding: 0px 0px 20px;
+  }
+
+  .div-block-17 {
+    padding-left: 20px;
+  }
+
+  .container-2 {
+    width: 95%;
+    max-width: none;
+    margin-right: auto;
+  }
+
+  .bold-text-3 {
+    font-size: 30px;
+  }
+
+  .submit-button {
+    padding: 0.5em 2em;
+    font-size: 16px;
+  }
+
+  .term-block.left {
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .term-block.right {
+    padding-left: 0px;
+  }
+}
+
+#w-node-f329a91f-0bf4-0516-ffbe-707ef183cc2d-067611dc {
+  -ms-grid-row-align: center;
+      align-self: center;
+  -ms-grid-column-align: center;
+      justify-self: center;
+}
+
+#w-node-d8610731-6091-7d17-bcc2-8c0f3ad1fa43-aa3baa26 {
+  -ms-grid-row: span 1;
+      grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 2;
+      grid-column-start: span 2;
+  -ms-grid-column-span: 2;
+  grid-column-end: span 2;
+}
+
+@media screen and (max-width: 991px) {
+  #w-node-f329a91f-0bf4-0516-ffbe-707ef183cc21-067611dc {
+    -ms-grid-column-align: auto;
+        justify-self: auto;
+  }
+}
+
+@font-face {
+  font-family: 'Avenir lt Normal';
+  src: url('../fonts/Avenir-LT-W01.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'AvenirLTProBlack';
+  src: url('../fonts/AvenirLTProBlack.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'AvenirLTProBook';
+  src: url('../fonts/AvenirLTProBook.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'AvenirLTProMedium';
+  src: url('../fonts/AvenirLTProMedium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'AvenirLTProHeavy';
+  src: url('../fonts/AvenirLTProHeavy.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'AvenirLTProLight';
+  src: url('../fonts/AvenirLTProLight.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'AvenirLTProRoman';
+  src: url('../fonts/AvenirLTProRoman.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
