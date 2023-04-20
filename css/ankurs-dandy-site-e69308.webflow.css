@@ -1786,3 +1786,23 @@
   font-display: swap;
 }
 
+.map-image{
+  margin-top: 1rem;
+  width: 80%;
+}
+.wa-icon{
+  position: fixed;
+  z-index: 100;
+  right: 10px;
+  bottom: 10px;
+}
+
+@media screen and (min-width:767px) {
+  .map-image{
+  margin-top: 0rem;
+    width: 50%;
+  } 
+  .wa-icon{
+    right: 20px;
+  }
+}
